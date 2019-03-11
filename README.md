@@ -1,1 +1,2 @@
 # Athena-Use-Cases
+By quantifying the relationship between water consumption and price in the City of Waterloo from historical data in the past ten years, better pricing strategies can be made based on future weather conditions. This method transforms discrete asymmetrical, heavy-tailed histograms into continuous PDFs(Probability Density Function). And estimate the trend of the PDF over time through regression or machine learning methods.
